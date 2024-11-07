@@ -8,11 +8,11 @@
 
 La plataforma **Regenia** actúa como un hub colaborativo donde expertos, activistas y entusiastas pueden:
 
-    - Investigar las últimas innovaciones y descubrimientos en energías limpias y sostenibles.
-    - Experimentar con modelos de simulación y gestión de recursos, promoviendo un aprendizaje práctico.
-    - Compartir ideas, proyectos y prácticas que puedan ser replicadas en diversas regiones y contextos.
-    - Administrar recursos y proyectos en tiempo real, creando una red de colaboración y apoyo para iniciativas sostenibles.
-    - Educar y sensibilizar sobre el impacto de los recursos renovables en la reducción de la contaminación.
+- Investigar las últimas innovaciones y descubrimientos en energías limpias y sostenibles.
+- Experimentar con modelos de simulación y gestión de recursos, promoviendo un aprendizaje práctico.
+- Compartir ideas, proyectos y prácticas que puedan ser replicadas en diversas regiones y contextos.
+- Administrar recursos y proyectos en tiempo real, creando una red de colaboración y apoyo para iniciativas sostenibles.
+- Educar y sensibilizar sobre el impacto de los recursos renovables en la reducción de la contaminación.
 
 ### Explicación del nombre:
 
